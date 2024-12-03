@@ -2,8 +2,10 @@
 
 Created by [BennyTots](https://www.twitch.tv/bennytots)
 
+### [Core Game Rules](#core-game-rules) | [Game Specific Rules](#game-specific-rules) | [Getting Started](#getting-started) | [Credits](#credits) 
+
 # Core Game Rules
-### [Foundational Rules](#foundational-rules) | [Catching Rules](#catching-rules) | [Pokemon Team Rules](#pokemon-team-rules) | [Gameplay Rules](#gameplay-rules) | [Banned Moves](#banned-moves) | [Rare Candy Limits](#rare-candy-level-limits)
+### [Foundational Rules](#foundational-rules) | [Catching Rules](#catching-rules) | [Pokemon Team Rules](#pokemon-team-rules)  <br> [Gameplay Rules](#gameplay-rules) | [Banned Moves](#banned-moves) | [Rare Candy Limits](#rare-candy-level-limits) 
 
 ## Foundational Rules
 | Rules | Details |
@@ -64,3 +66,19 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | 6 | Level 69 |
 | 7 | Level 71 |
 | 8 | Level 75 |
+
+# Game Specific Rules
+## Fire Red / Leaf Green
+* Pokemon Tower IS a dungeon. Therefore, in order to not soft-locke you must wait to enter it until after you obtain the silph scope from Giovanni in Rocket Hideout.
+* You ARE allowed to enter Sevii Islands.
+
+# Getting Started
+## Fire Red / Leaf Green
+1. Apply DrMaple's [FRLG patch](https://github.com/DrMaple/FireRed-Tourney-Patch/releases/tag/FireRedTourneyS12) to a clean ROM
+2. Apply BigMurph's [Murphmon settings string](https://github.com/BigMurph619/Murphmon?tab=readme-ov-file#settings) to patched rom
+
+# Credits
+* [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
+* [BigMurph619](https://www.twitch.tv/bigmurph619) Utilizes BigMurph's Murphmon FRLG rnqs file
+* [UTDZac](https://github.com/UTDZac) Creator of FRLG Tracker
+* [DrMaple](https://github.com/DrMaple) Creator of FRLG patch
