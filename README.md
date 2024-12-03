@@ -3,6 +3,7 @@
 Created by [BennyTots](https://www.twitch.tv/bennytots)
 
 # Core Game Rules
+### [Foundational Rules](#foundational-rules) | [Catching Rules](#catching-rules) | [Pokemon Team Rules](#pokemon-team-rules) | [Gameplay Rules](#gameplay-rules) | [Banned Moves](#banned-moves) | [Rare Candy Limits](#rare-candy-level-limits)
 
 ## Foundational Rules
 | Rules | Details |
@@ -31,8 +32,8 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Rules | Details |
 | --- | --- |
 | Team Composition | Linked Pokemon must be on the team at the same time. The team must not repeat any Primary typing. |
-| Variety is the Spice of Life | Each Pokemon may only be brought to a total of 4 gyms (i.e. E4 is not exempt from this rule). | 
-| Keep the team leveled | You may use rare candies on each mon up to a lvl based on how many badges you have. The caps are listed below. |
+| Variety is the Spice of Life | Each Pokemon may only be brought to a total of 4 gyms (E4 is exempt from this rule). | 
+| Keep the team leveled | You may use rare candies on each mon up to a specified level based on how many badges you have. The caps are listed below. |
 | Held Items Restriction | The only Held Items allowed are Evolution items and Items that are consumed on use like berries, herbs, and Focus Sash |
 
 ## Gameplay Rules
