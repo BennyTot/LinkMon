@@ -28,6 +28,8 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Banned Abilities | Using any physical move is banned while having Huge Power or Pure Power (special moves are okay).<br><br>Banned abilities don't apply to:<li>Pokémon with BST 399 or lower</li><li>Pokémon with BST 400-410 (inclusive) that will eventually evolve</li> |
 
 ## Pokemon Team Rules
+| Rules | Details |
+| --- | --- |
 | Team Composition | Linked Pokemon must be on the team at the same time. The team must not repeat any Primary typing. |
 | Variety is the Spice of Life | Each Pokemon may only be brought to a total of 4 gyms (i.e. E4 is not exempt from this rule). | 
 | Keep the team leveled | You may use rare candies on each mon up to a lvl based on how many badges you have. The caps are listed below. |
