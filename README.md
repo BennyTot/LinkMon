@@ -74,8 +74,9 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 
 # Getting Started
 ## Fire Red / Leaf Green
-1. Apply DrMaple's [FRLG patch](https://github.com/DrMaple/FireRed-Tourney-Patch/releases/tag/FireRedTourneyS12) for this gamemode to a clean ROM
-2. Apply Linkmon settings string to patched rom
+1. Download both the Linkmonv2.rnqs (settings string) and the Faster FireRed Kaizo Nuzlocke Fusion.ips made by DrMaple
+2. Apply DrMaple's FRLG patch for this gamemode to a clean FRLG ROM
+3. Apply Linkmon settings string to patched rom
 
 # Credits
 * [DrMaple](https://github.com/DrMaple) For creating a variant of his FRLG Kaizo patch for this mode
