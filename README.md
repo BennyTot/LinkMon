@@ -11,7 +11,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Rules | Details |
 | --- | --- |
 | Randomize the game | All Pokémon, movesets, move tutors, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by <b>50%</b>. |
-| Slow Growth Rates | All Pokémon have Slow Growth Rate. |
+| Medium Slow Growth Rates | All Pokémon have Medium Slow Growth Rate, except for Legendaries which are set to Slow. |
 | No Shops | You can only use items that you pick up or are given by an NPC, no use of stores except for any type of Pokeball or Repel. |
 | No Redos | You may not re-fight trainers at any point using the VS Seeker or other means. You may not abuse respawning items by picking them up more than once |
 | "Set" Battles Only | You must use "Set" battle type in the in-game settings. |
@@ -74,11 +74,12 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 
 # Getting Started
 ## Fire Red / Leaf Green
-1. Apply DrMaple's [FRLG patch](https://github.com/DrMaple/FireRed-Tourney-Patch/releases/tag/FireRedTourneyS12) to a clean ROM
+1. Apply DrMaple's [FRLG patch](https://github.com/DrMaple/FireRed-Tourney-Patch/releases/tag/FireRedTourneyS12) for this gamemode to a clean ROM
 2. Apply Linkmon settings string to patched rom
 
 # Credits
+* [DrMaple](https://github.com/DrMaple) For creating a variant of his FRLG Kaizo patch for this mode
 * [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
 * [BigMurph619](https://www.twitch.tv/bigmurph619) Key Changes in the Murphverse
 * [UTDZac](https://github.com/UTDZac) Creator of FRLG Tracker
-* [DrMaple](https://github.com/DrMaple) Creator of FRLG patch
+
