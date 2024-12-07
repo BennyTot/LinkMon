@@ -24,7 +24,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Pick your Starter | You may pick any mon you want in the lab that is 599 BST or lower. |
 | Catch 1 per Route | You may catch the first Pokemon per Route. If the first Pokemon is the same type as your partner's Pokemon on that route you may re-encounter. |
 | Link your Catches | You and your partner's catches on each route are linked. The linked pokemon cannot be the same type. |
-| Dupes Clause | You are NOT allowed to catch a pokemon that has already been caught by either you or your partner. If you encounter one you are allowed to re-encounter. |
+| Dupes Clause | You are NOT allowed to catch a pokemon that has already been caught by you. If you encounter one you are allowed to re-encounter. |
 | Accidental Kills | If you accidentally kill a Pokémon while trying to catch it, you will no longer be able to capture a Pokémon from that Route. |
 | No Killing Wild Pokémon | If you accidentally kill a pokemon other than the first mon on a route then the run is over. |
 | HM Friends | You may catch additional pokemon for HM use ONLY. You may not gain any advantage from the HM mon. |
@@ -51,7 +51,6 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 ## Banned Moves
 * HM Moves (except on HM pokemon)
 * Any healing move
-* Any pure setup move
 * Spore
 
 ## Rare Candy Level Limits
