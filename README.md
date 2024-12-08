@@ -33,8 +33,8 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 ## Pokemon Team Rules
 | Rules | Details |
 | --- | --- |
-| Team Composition | Linked Pokemon must be on the team at the same time. The team must not repeat any Primary typing. |
-| Variety is the Spice of Life | Each Pokemon may only be brought to a total of 4 gyms (E4 is exempt from this rule). | 
+| Team Composition | Linked Pokemon must be on the team at the same time. Both you and your partner's team must not repeat any Primary typing. |
+| Variety is the Spice of Life | Each Pokemon may only be brought to a total of 4 gyms (Elite Four is exempt from this rule). | 
 | Keep the team leveled | You may use rare candies on each mon up to a specified level based on how many badges you have. The caps are listed below. |
 | Held Items Restriction | The only Held Items allowed are Evolution items and Items that are consumed on use like berries, herbs, and Focus Sash |
 
@@ -44,19 +44,19 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Permadeath | Once a Pokémon faints, you must release/store it along with the linked Pokemon. Your partner may finish the current battle ONLY as if that Pokemon is still alive. | 
 | Game Over | Once all party Pokémon have fainted, the run is over, and you must restart with a newly randomized game. If you and your partner have a different last pokemon remaining (e.g. after a Gym Leader) the run is still over as there are no linked mons alive. |
 | No Way Out Gyms | Once You Enter a Gym or Dojo, You cannot leave until you defeat ALL TRAINERS. Beat it or Die. |
-| One Shot Dungeons | You can only enter a dungeon once unless the story requires a revisit. A Dungeon refers to:<li>Any Hideout</li><li>Any Cave</li><li>Any Building with Trainers</li>Forests are not dungeons. |
+| One Shot Dungeons | You can only enter a dungeon once unless the story requires a revisit. A Dungeon refers to:<li>Any Hideout</li><li>Any Cave with Trainers</li><li>Any Building with Trainers</li>Forests are not dungeons. |
 | No Healing Stations in Dungeons | No Pokecenter-like healing in Dungeons (Example - Rocket Hideout NPC, SS Anne Bed, etc) |
 | Stolen Items | You may not intentionally steal items from wild pokemon with moves like Thief, Covet, etc. Stealing them from a trainer battle is fine. |
 
 ## Banned Moves
 * HM Moves (except on HM pokemon)
-* Any healing move
-* Spore
+* Any pure healing move (giga drain etc are ALLOWED)
+* Spore banned during Elite Four ONLY
 
 ## Rare Candy Level Limits
 | Gym Badges | Level Limit |
 | --- | --- |
-| 0 | Level 7 |
+| 0 | Level 8 |
 | 1 | Level 18 |
 | 2 | Level 27 |
 | 3 | Level 36 |
@@ -69,6 +69,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 # Game Specific Rules
 ## Fire Red / Leaf Green
 * Pokemon Tower IS a dungeon. Therefore, in order to not soft-locke you must wait to enter it until after you obtain the silph scope from Giovanni in Rocket Hideout.
+* Diglett Cave is NOT a dungeon since there are no trainers.
 * You ARE allowed to enter Sevii Islands.
 
 # Getting Started
