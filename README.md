@@ -58,7 +58,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Gym Badges | Level Limit |
 | --- | --- |
 | 0 | Level 8 |
-| 0 (beat Route 22 Rival | Level 14 |
+| 0 (beat Route 22 Rival) | Level 14 |
 | 1 | Level 18 |
 | 2 | Level 27 |
 | 3 | Level 36 |
