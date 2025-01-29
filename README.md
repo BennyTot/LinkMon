@@ -24,7 +24,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Pick your Starter | You may pick any mon you want in the lab that is 599 BST or lower. |
 | Catch 1 per Route | You may catch the first Pokemon per Route. If the first Pokemon is the same type as your partner's Pokemon on that route you may re-encounter. |
 | Link your Catches | You and your partner's catches on each route are linked. The linked pokemon cannot be the same type. |
-| Dupes Clause | You are NOT allowed to catch a pokemon that has already been caught by you. If you encounter one you are allowed to re-encounter. |
+| Dupes Clause | You are NOT allowed to catch a pokemon that has already been caught by you. If you encounter one you are allowed to re-encounter. If you evo into a dupe you are allowed to run it. |
 | Accidental Kills | If you accidentally kill a Pokémon while trying to catch it, you will no longer be able to capture a Pokémon from that Route. |
 | No Killing Wild Pokémon | If you accidentally kill a pokemon other than the first mon on a route then the run is over. |
 | HM Friends | You may catch additional pokemon for HM use ONLY. You may not gain any advantage from the HM mon. |
@@ -33,10 +33,10 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 ## Pokemon Team Rules
 | Rules | Details |
 | --- | --- |
-| Team Composition | Linked Pokemon must be on the team at the same time. Both you and your partner's team must not repeat any Primary typing. |
-| Variety is the Spice of Life | Each Pokemon may only be brought to a total of 4 gyms (Elite Four is exempt from this rule). | 
+| Team Composition | Linked Pokemon must be on the team at the same time. Both you and your partner's team must not repeat any Primary typing (this restriction is based on the Pokemon when caught; if it evos into a pair that repeats Primary typing it's allowed to be used). |
+| Variety is the Spice of Life | Each Pokemon may only be brought to a total of 4 gyms (Elite Four is exempt from this rule). It's recommended to keep track using the 'Marks' feature available from the PC. | 
 | Keep the team leveled | You may use rare candies on each mon up to a specified level based on how many badges you have. The caps are listed below. |
-| Held Items Restriction | The only Held Items allowed are Evolution items and Items that are consumed on use like berries, herbs, and Focus Sash |
+| Held Items Restriction | The only Held Items allowed are items that are consumed on use like berries, herbs, and Focus Sash |
 
 ## Gameplay Rules
 | Rules | Details |
@@ -44,6 +44,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Permadeath | Once a Pokémon faints, you must release/store it along with the linked Pokemon. Your partner may finish the current battle ONLY as if that Pokemon is still alive. | 
 | Game Over | Once all party Pokémon have fainted, the run is over, and you must restart with a newly randomized game. If you and your partner have a different last pokemon remaining (e.g. after a Gym Leader) the run is still over as there are no linked mons alive. |
 | No Way Out Gyms | Once You Enter a Gym or Dojo, You cannot leave until you defeat ALL TRAINERS. Beat it or Die. |
+| Stick Together | Start bosses (such as Gym Leaders and Rival) at the same time as your partner. |
 | One Shot Dungeons | You can only enter a dungeon once unless the story requires a revisit. A Dungeon refers to:<li>Any Hideout</li><li>Any Cave with Trainers</li><li>Any Building with Trainers</li>Forests are not dungeons. |
 | No Healing Stations in Dungeons | No Pokecenter-like healing in Dungeons (Example - Rocket Hideout NPC, SS Anne Bed, etc) |
 | Stolen Items | You may not intentionally steal items from wild pokemon with moves like Thief, Covet, etc. Stealing them from a trainer battle is fine. |
