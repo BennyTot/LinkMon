@@ -25,6 +25,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Catch 1 per Route | You may catch the first Pokemon per Route. If the first Pokemon is the same type as your partner's Pokemon on that route you may re-encounter. |
 | Link your Catches | You and your partner's catches on each route are linked. The linked pokemon cannot be the same type. |
 | Dupes Clause | You are NOT allowed to catch a pokemon that has already been caught by you. If you encounter one you are allowed to re-encounter. If you evo into a dupe you are allowed to run it. |
+| Trading | NPC trades ARE allowed; however, the traded mon cannot be a dupe and must still be a legal typing pair with the linked mon. |
 | Accidental Kills | If you accidentally kill a Pokémon while trying to catch it, you will no longer be able to capture a Pokémon from that Route. |
 | No Killing Wild Pokémon | If you accidentally kill a pokemon other than the first mon on a route then the run is over. |
 | HM Friends | You may catch additional pokemon for HM use ONLY. You may not gain any advantage from the HM mon. |
@@ -35,7 +36,8 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | --- | --- |
 | Team Composition | Linked Pokemon must be on the team at the same time. Both you and your partner's team must not repeat any Primary typing (this restriction is based on the Pokemon when caught; if it evos into a pair that repeats Primary typing it's allowed to be used). |
 | Variety is the Spice of Life | Each Pokemon may only be brought to a total of 4 gyms (Elite Four is exempt from this rule). It's recommended to keep track using the 'Marks' feature available from the PC. | 
-| Keep the team leveled | You may use rare candies on each mon up to a specified level based on how many badges you have. The caps are listed below. |
+| Keep the team leveled | You may use rare candies on each mon up to a specified level based on how many badges you have. Rare candies are given in stacks of 99 by a NPC in Viridian City. The caps are listed below. |
+| Ooo a Candy | If you find a rare candy as a random field item (i.e. not from the NPC who gives rare candies) then you may use it to go over the standard rare candy level limit. |
 | Held Items Restriction | The only Held Items allowed are items that are consumed on use like berries, herbs, and Focus Sash |
 
 ## Gameplay Rules
@@ -76,9 +78,9 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 
 # Getting Started
 ## Fire Red / Leaf Green
-1. Download both the Linkmonv2.rnqs (settings string) and the Faster FireRed Kaizo Nuzlocke Fusion.ips made by DrMaple
+1. Download both the Linkmonv3.rnqs (settings string) and the Faster FireRed Kaizo Nuzlocke Fusion.ips made by DrMaple
 2. Apply DrMaple's FRLG patch for this gamemode to a clean FRLG ROM
-3. Apply Linkmon settings string to patched rom
+3. Apply Linkmon settings string to patched rom when randomizing
 
 # Credits
 * [DrMaple](https://github.com/DrMaple) For creating a variant of his FRLG Kaizo patch for this mode
