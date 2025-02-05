@@ -29,14 +29,14 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Accidental Kills | If you accidentally kill a Pokémon while trying to catch it, you will no longer be able to capture a Pokémon from that Route. |
 | No Killing Wild Pokémon | If you accidentally kill a pokemon other than the first mon on a route then the run is over. |
 | HM Friends | You may catch additional pokemon for HM use ONLY. You may not gain any advantage from the HM mon. |
-| Banned Abilities | Using any physical move is banned while having Huge Power or Pure Power (special moves are okay).<br><br>Banned abilities don't apply to:<li>Pokémon with BST 399 or lower</li><li>Pokémon with BST 400-410 (inclusive) that will eventually evolve</li> |
+| Banned Abilities | Using any physical move is banned while having Huge Power or Pure Power (special moves are okay).<br><br>Banned abilities don't apply to Pokémon with BST 420 or lower |
 
 ## Pokemon Team Rules
 | Rules | Details |
 | --- | --- |
 | Team Composition | Linked Pokemon must be on the team at the same time. Both you and your partner's team must not repeat any Primary typing (this restriction is based on the Pokemon when caught; if it evos into a pair that repeats Primary typing it's allowed to be used). |
 | Variety is the Spice of Life | Each Pokemon may only be brought to a total of 4 gyms (Elite Four is exempt from this rule). It's recommended to keep track using the 'Marks' feature available from the PC. | 
-| Keep the team leveled | You may use rare candies on each mon up to a specified level based on how many badges you have. Rare candies are given in stacks of 99 by a NPC in Viridian City. The caps are listed below. |
+| Keep the team leveled | You may use rare candies on each mon up to a specified level based on game progression. Additional rare candies are given in stacks of 99 by a NPC in Viridian City. The caps are listed below. |
 | Ooo a Candy | If you find a rare candy as a random field item (i.e. not from the NPC who gives rare candies) then you may use it to go over the standard rare candy level limit. |
 | Held Items Restriction | The only Held Items allowed are items that are consumed on use like berries, herbs, and Focus Sash |
 
@@ -59,7 +59,8 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 ## Rare Candy Level Limits
 | Gym Badges | Level Limit |
 | --- | --- |
-| 0 | Level 8 |
+| 0 (in lab) | Level 6 |
+| 0 (out of lab) | Level 8 |
 | 0 (beat Route 22 Rival) | Level 14 |
 | 1 | Level 18 |
 | 2 | Level 27 |
