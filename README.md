@@ -15,15 +15,17 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | No Shops | You can only use items that you pick up or are given by an NPC, no use of stores except for any type of Pokeball or Repel. |
 | No Redos | You may not re-fight trainers at any point using the VS Seeker or other means. You may not abuse respawning items by picking them up more than once |
 | "Set" Battles Only | You must use "Set" battle type in the in-game settings. |
-| No Healing Items outside of Battle | No HP, PP (other than PP up/max), or status Healing Items while outside of battle. |
+| No Healing Items outside of Battle | No HP, PP (other than PP up/max), or status Healing Items while outside of battle (all flutes are illegal). |
 | No Relearner Abuse | You cannot use the Move Relearner NPC to teach Sketch to a Pokemon that has already sketched a move. |
 
 ## Catching Rules
 | Rules | Details |
 | --- | --- |
 | Pick your Starter | You may pick any mon you want in the lab that is 599 BST or lower. |
+| Get Oak's Balls | The catching rule does not start until you get the 5 Pokeballs from Oak in the beginning of the game. If you get a ball on your starter your catches still do not start until you get the 5 Pokeballs. |
 | Catch 1 per Route | You may catch the first Pokemon per Route. If the first Pokemon is the same type as your partner's Pokemon on that route you may re-encounter. |
 | Link your Catches | You and your partner's catches on each route are linked. The linked pokemon cannot be the same type. |
+| No Uber Strong Mons | You are NOT allowed to catch a mon that has 600+ BST (Legendaries under 600 BST are ALLOWED). If you evo into a mon with 600+ BST you are allowed to run it. |
 | Dupes Clause | You are NOT allowed to catch a pokemon that has already been caught by you. If you encounter one you are allowed to re-encounter. If you evo into a dupe you are allowed to run it. |
 | Trading | NPC trades ARE allowed; however, the traded mon cannot be a dupe and must still be a legal typing pair with the linked mon. |
 | Accidental Kills | If you accidentally kill a Pokémon while trying to catch it, you will no longer be able to capture a Pokémon from that Route. |
@@ -38,11 +40,12 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Variety is the Spice of Life | Each Pokemon may only be brought to a total of 4 gyms (Elite Four is exempt from this rule). It's recommended to keep track using the 'Marks' feature available from the PC. | 
 | Keep the team leveled | You may use rare candies on each mon up to a specified level based on game progression. Additional rare candies are given in stacks of 99 by a NPC in Viridian City. The caps are listed below. |
 | Ooo a Candy | If you find a rare candy as a random field item (i.e. not from the NPC who gives rare candies) then you may use it to go over the standard rare candy level limit. |
-| Held Items Restriction | The only Held Items allowed are items that are consumed on use like berries, herbs, and Focus Sash |
+| Held Items Restriction | The only Held Items allowed are Smokeball (before fighting first forest trainer) and items that are consumed on use like berries, herbs, and Focus Sash |
 
 ## Gameplay Rules
 | Rules | Details |
 | --- | --- |
+| Get out of Lab! | You are allowed to use illegal moves and any held items in the very first fight against your rival in Oak's Lab. |
 | Permadeath | Once a Pokémon faints, you must release/store it along with the linked Pokemon. Your partner may finish the current battle ONLY as if that Pokemon is still alive. | 
 | Game Over | Once all party Pokémon have fainted, the run is over, and you must restart with a newly randomized game. If you and your partner have a different last pokemon remaining (e.g. after a Gym Leader) the run is still over as there are no linked mons alive. |
 | No Way Out Gyms | Once You Enter a Gym or Dojo, You cannot leave until you defeat ALL TRAINERS. Beat it or Die. |
