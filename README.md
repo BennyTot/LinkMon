@@ -82,7 +82,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 
 # Getting Started
 ## Fire Red / Leaf Green
-1. Download both the Linkmonv3.rnqs (settings string) and the Faster FireRed Kaizo Nuzlocke Fusion.ips made by DrMaple
+1. Download both the Linkmonv4.rnqs (settings string) and the Faster FireRed Kaizo Nuzlocke Fusion.ips made by DrMaple
 2. Apply DrMaple's FRLG patch for this gamemode to a clean FRLG ROM
 3. Apply Linkmon settings string to patched rom when randomizing
 
