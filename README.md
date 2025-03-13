@@ -21,7 +21,8 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 ## Catching Rules
 | Rules | Details |
 | --- | --- |
-| Pick your Starter | You may pick any mon you want in the lab that is 599 BST or lower. |
+| Pick your Starter | You may pick any mon you want in the lab. Your choice must still follow all other restrictions (i.e. no duplicate mons/typing & BST limit) |
+| Build your Foundation | For pre-Brock encounters ONLY you may choose which Pokémon to catch on each route. The catches must still follow all other restrictions (i.e. no duplicate mons/typing & BST limit). If you KO the mon or it faints while attempting to catch you still lose your encounter on that route. |
 | Get Oak's Balls | The catching rule does not start until you get the 5 Pokeballs from Oak in the beginning of the game. If you get a ball on your starter your catches still do not start until you get the 5 Pokeballs. |
 | Catch 1 per Route | You may catch the first Pokemon per Route. If the first Pokemon is the same type as your partner's Pokemon on that route you may re-encounter. |
 | Link your Catches | You and your partner's catches on each route are linked. The linked pokemon cannot be the same type. |
@@ -37,7 +38,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Rules | Details |
 | --- | --- |
 | Team Composition | Linked Pokemon must be on the team at the same time. Both you and your partner's team must not repeat any Primary typing (this restriction is based on the Pokemon when caught; if it evos into a pair that repeats Primary typing it's allowed to be used). |
-| Variety is the Spice of Life | Each Pokemon may only be brought to a total of 4 gyms (Elite Four is exempt from this rule). It's recommended to keep track using the 'Marks' feature available from the PC. | 
+| Variety is the Spice of Life | Each Pokemon may only be brought to a total of 3 gyms (Elite Four is exempt from this rule). It's recommended to keep track using the 'Marks' feature available from the PC. | 
 | Keep the team leveled | You may use rare candies on each mon up to a specified level based on game progression. Additional rare candies are given in stacks of 99 by a NPC in Viridian City. The caps are listed below. |
 | Ooo a Candy | If you find a rare candy as a random field item (i.e. not from the NPC who gives rare candies) then you may use it to go over the standard rare candy level limit. |
 | Held Items Restriction | The only Held Items allowed are Smokeball (before fighting first forest trainer) and items that are consumed on use like berries, herbs, and Focus Sash |
@@ -82,13 +83,14 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 
 # Getting Started
 ## Fire Red / Leaf Green
-1. Download both the Linkmonv4.rnqs (settings string) and the Faster FireRed Kaizo Nuzlocke Fusion.ips made by DrMaple
+1. Download both the Linkmonv5.rnqs (settings string) and the Faster FireRed Kaizo Nuzlocke Fusion.ips made by DrMaple
 2. Apply DrMaple's FRLG patch for this gamemode to a clean FRLG ROM
-3. Apply Linkmon settings string to patched rom when randomizing
+3. When setting up the profile in the tracker use: patched rom, Linkmon rnqs, and something-smart's randomizer (linked below)
 
 # Credits
 * [DrMaple](https://github.com/DrMaple) For creating a variant of his FRLG Kaizo patch for this mode
 * [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
 * [BigMurph619](https://www.twitch.tv/bigmurph619) Key Changes in the Murphverse
 * [UTDZac](https://github.com/UTDZac) Creator of FRLG Tracker
+* [something-smart](https://github.com/something-smart/ironmon-randomizer) Modified Pokemon Randomizer
 
