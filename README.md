@@ -29,7 +29,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | No Uber Strong Mons | You are NOT allowed to catch a mon that has 600+ BST (Legendaries under 600 BST are ALLOWED). If you evo into a mon with 600+ BST you are allowed to run it. |
 | Dupes Clause | You are NOT allowed to catch a pokemon that has already been caught by you. If you encounter one you are allowed to re-encounter. If you evo into a dupe you are allowed to run it. |
 | Trading | NPC trades ARE allowed; however, the traded mon cannot be a dupe and must still be a legal typing pair with the linked mon. |
-| Accidental Kills | If you accidentally kill a Pokémon while trying to catch it, you will no longer be able to capture a Pokémon from that Route. For pre-Brock routes this means that if it kills itself before you start the catching process (weakening it or throwing balls) you are still allowed a catch on that route |
+| Accidental Kills | If you accidentally kill a Pokémon while trying to catch it, you will no longer be able to capture a Pokémon from that route. For pre-Brock routes this means that if it kills itself before you start throwing balls you are still allowed a catch on that route. |
 | No Killing Wild Pokémon | If you accidentally kill a pokemon other than the first mon on a route then the run is over. |
 | HM Friends | You may catch additional pokemon for HM use ONLY. You may not gain any advantage from the HM mon. |
 | Banned Abilities | Using any physical move is banned while having Huge Power or Pure Power (special moves are okay).<br><br>Banned abilities don't apply to Pokémon with BST 420 or lower |
