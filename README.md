@@ -79,6 +79,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 ## Fire Red / Leaf Green
 * Pokemon Tower IS a dungeon. Therefore, in order to not soft-locke you must wait to enter it until after you obtain the silph scope from Giovanni in Rocket Hideout.
 * Diglett Cave is NOT a dungeon since there are no trainers.
+* You ARE allowed to save state in the beginning of your Safari Zone encounter to guarantee the catch (just load state if the pokemon runs)
 * You ARE allowed to enter Sevii Islands.
 
 # Getting Started
