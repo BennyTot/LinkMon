@@ -84,14 +84,14 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 
 # Getting Started
 ## Fire Red / Leaf Green
-1. Download both the Linkmonv5.rnqs (settings string) and the Faster FireRed Kaizo Nuzlocke Fusion.ips made by DrMaple
-2. Apply DrMaple's FRLG patch for this gamemode to a clean FRLG ROM
+1. Download both the Linkmonv-SB.rnqs (settings string) and the LINKMON FireRed with smokeball.ips patch
+2. Apply LinkMon patch for this gamemode to a clean FRLG ROM [here](https://www.marcrobledo.com/RomPatcher.js/)
 3. When setting up the profile in the tracker use: patched rom, Linkmon rnqs, and something-smart's randomizer (linked below)
 
 # Credits
 * [DrMaple](https://github.com/DrMaple) For creating a variant of his FRLG Kaizo patch for this mode
 * [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
-* [BigMurph619](https://www.twitch.tv/bigmurph619) Key Changes in the Murphverse
+* [BigMurph619](https://www.twitch.tv/bigmurph619) Key Changes in the Murphverse & adding smokeball to patch file
 * [UTDZac](https://github.com/UTDZac) Creator of FRLG Tracker
 * [something-smart](https://github.com/something-smart/ironmon-randomizer) Modified Pokemon Randomizer
 
