@@ -65,9 +65,9 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | --- | --- |
 | 0 (in lab) | Level 6 |
 | 0 (out of lab) | Level 8 |
-| 0 (beat Route 22 Rival) | Level 14 |
-| 1 | Level 18 |
-| 2 | Level 27 |
+| 0 (beat Route 22 Rival) | Level 16 |
+| 1 | Level 21 |
+| 2 | Level 31 |
 | 3 | Level 36 |
 | 4 | Level 44 |
 | 5 | Level 65 |
