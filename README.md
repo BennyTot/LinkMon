@@ -73,7 +73,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | 5 | Level 65 |
 | 6 | Level 69 |
 | 7 | Level 71 |
-| 8 | Level 75 |
+| 8 | Level 80 |
 
 # Game Specific Rules
 ## Fire Red / Leaf Green
