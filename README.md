@@ -11,7 +11,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Rules | Details |
 | --- | --- |
 | Randomize the game | All Pokémon, movesets, move tutors, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by <b>50%</b>. |
-| Medium Slow Growth Rates | All Pokémon have Medium Slow Growth Rate, except for Legendaries which are set to Slow. |
+| Medium Slow Growth Rates | All Pokémon have Medium Slow Growth Rate. |
 | No Shops | You can only use items that you pick up or are given by an NPC, no use of stores except for any type of Pokeball or Repel. |
 | No Redos | You may not re-fight trainers at any point using the VS Seeker or other means. You may not abuse respawning items by picking them up more than once |
 | "Set" Battles Only | You must use "Set" battle type in the in-game settings. |
