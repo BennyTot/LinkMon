@@ -27,7 +27,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Catch 1 per Route | You may catch the first Pokemon per Route. If the first Pokemon is the same type as your partner's Pokemon on that route you may re-encounter. |
 | Link your Catches | You and your partner's catches on each route are linked. The linked pokemon cannot be the same type. |
 | No Uber Strong Mons | You are NOT allowed to catch a mon that has 600+ BST (Legendaries under 600 BST are ALLOWED). If you evo into a mon with 600+ BST you are allowed to run it. |
-| Dupes Clause | You are NOT allowed to catch a pokemon that has already been caught by you. If you encounter one you are allowed to re-encounter. If you evo into a dupe you are allowed to run it. |
+| Dupes Clause | You are NOT allowed to catch a pokemon that has already been caught by you or that you have already evolved into. If you encounter one you are allowed to re-encounter. If you evo into a dupe you are allowed to run it. |
 | Trading | NPC trades ARE allowed; however, the traded mon cannot be a dupe and must still be a legal typing pair with the linked mon. |
 | Accidental Kills | If you accidentally kill a Pokémon while trying to catch it, you will no longer be able to capture a Pokémon from that route. For pre-Brock routes this means that if it kills itself before you start throwing balls you are still allowed a catch on that route. |
 | No Killing Wild Pokémon | If you accidentally kill a pokemon other than the first mon on a route then the run is over. |
