@@ -2,6 +2,8 @@
 
 Created by [BennyTots](https://www.twitch.tv/bennytots)
 
+FRLG Linkmon has not been beaten yet! If you and your partner manage to be the first ones to beat it on stream please send me the vod link and I will add you as NPCs to Pallet Town with whatever (appropriate) text you want!
+
 ### [Core Game Rules](#core-game-rules) | [Game Specific Rules](#game-specific-rules) | [Getting Started](#getting-started) | [Credits](#credits) 
 
 # Core Game Rules
@@ -79,6 +81,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 ## Fire Red / Leaf Green
 * Pokemon Tower IS a dungeon. Therefore, in order to not soft-locke you must wait to enter it until after you obtain the silph scope from Giovanni in Rocket Hideout.
 * Diglett Cave is NOT a dungeon since there are no trainers.
+* The SS Anne Dungeon begins as soon as you flash your SS Anne ticket and just like Kaizo Ironmon the Rival fight must be the first fight you do.
 * You ARE allowed to save state in the beginning of your Safari Zone encounter to guarantee the catch (just load state if the pokemon runs)
 * You ARE allowed to enter Sevii Islands.
 
@@ -91,7 +94,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 # Credits
 * [DrMaple](https://github.com/DrMaple) For creating a variant of his FRLG Kaizo patch for this mode
 * [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
-* [BigMurph619](https://www.twitch.tv/bigmurph619) Key Changes in the Murphverse & adding smokeball to patch file
+* [BigMurph619](https://www.twitch.tv/bigmurph619) Key Changes in the Murphverse & patch work
 * [UTDZac](https://github.com/UTDZac) Creator of FRLG Tracker
 * [something-smart](https://github.com/something-smart/ironmon-randomizer) Modified Pokemon Randomizer
 
