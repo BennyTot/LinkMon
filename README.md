@@ -59,7 +59,7 @@ FRLG Linkmon has not been beaten yet! If you and your partner manage to be the f
 
 ## Banned Moves
 * HM Moves (except on HM pokemon)
-* Any pure healing move (giga drain etc are ALLOWED)
+* Any healing move that is not direct damage (giga drain, absorb, etc are ALLOWED)
 * Spore banned during Elite Four ONLY
 
 ## Rare Candy Level Limits
