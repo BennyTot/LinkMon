@@ -111,7 +111,7 @@ FRLG Linkmon has not been beaten yet! If you and your partner manage to be the f
 
 # Getting Started
 ## Fire Red / Leaf Green
-1. Download both the Linkmonv-SB.rnqs (settings string) and the LINKMON FireRed with smokeball.ips patch
+1. Download both the LinkMon_Final.rnqs (settings string) and the Linkmon_Final.ips patch
 2. Apply LinkMon patch for this gamemode to a clean FRLG ROM [here](https://www.marcrobledo.com/RomPatcher.js/)
 3. When setting up the profile in the tracker use: patched rom, Linkmon rnqs, and something-smart's randomizer (linked below)
 
