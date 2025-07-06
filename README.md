@@ -34,16 +34,17 @@ FRLG Linkmon has not been beaten yet! If you and your partner manage to be the f
 | Accidental Kills | If you accidentally kill a Pokémon while trying to catch it, you will no longer be able to capture a Pokémon from that route. For pre-Brock routes this means that if it kills itself before you start throwing balls you are still allowed a catch on that route. |
 | No Killing Wild Pokémon | If you accidentally kill a pokemon other than the first mon on a route then the run is over. |
 | HM Friends | You may catch additional pokemon for HM use ONLY. You may not gain any advantage from the HM mon. |
-| Banned Abilities | Using any physical move is banned while having Huge Power or Pure Power (special moves are okay).<br><br>Banned abilities don't apply to Pokémon with BST 420 or lower |
+| Banned Abilities | <li>Using any physical move is banned while having Huge Power or Pure Power (special moves are okay).</li><li>Using any OHKO move while having No Guard</li>Banned abilities don't apply to Pokémon with BST 420 or lower |
 
 ## Pokemon Team Rules
 | Rules | Details |
 | --- | --- |
 | Team Composition | Linked Pokemon must be on the team at the same time. Both you and your partner's team must not repeat any Primary typing (this restriction is based on the Pokemon when caught; if it evos into a pair that repeats Primary typing it's allowed to be used). Pokemon pairs caught in dungeons (e.g. Mt. Moon) are legal to be used until you exit the dungeon regardless of team composition. |
 | Variety is the Spice of Life | Each Pokemon may only be brought to a total of 3 gyms (Elite Four is exempt from this rule). It's recommended to keep track using the 'Marks' feature available from the PC. | 
-| Keep the team leveled | You may use rare candies on each mon up to a specified level based on game progression. Additional rare candies are given in stacks of 99 by a NPC in Viridian City (FRLG) or by the Quagsire in lab (HGSS). The caps are listed below. |
+| Keep the Team Leveled | You may use rare candies on each mon up to a specified level based on game progression. Additional rare candies are given in stacks of 99 by a NPC in Viridian City (FRLG) or by the Quagsire in lab (HGSS). The caps are listed below. |
+| Let your Friends Grow | You cannot stop an evolution that occurs from level up. This rule can be ignored by equipping an Everstone to the pokemon. |
 | Ooo a Candy | If you find a rare candy as a random field item (i.e. not from the NPC who gives rare candies) then you may use it to go over the standard rare candy level limit. |
-| Held Items Restriction | The only Held Items allowed are Smokeball (before fighting first forest trainer) and items that are consumed on use like berries, herbs, and Focus Sash |
+| Held Items Restriction | The only Held Items allowed are Smokeball, Everstone, and items that are consumed on use like berries, herbs, and Focus Sash |
 
 ## Gameplay Rules
 | Rules | Details |
