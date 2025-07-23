@@ -4,7 +4,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 
 FRLG Linkmon has not been beaten yet! If you and your partner manage to be the first ones to beat it on stream please send me the vod link and I will add you as NPCs to Pallet Town with whatever (appropriate) text you want!
 
-### [Core Game Rules](#core-game-rules) | [Game Specific Rules](#game-specific-rules) | [Getting Started](#getting-started) | [Credits](#credits) 
+### [Core Game Rules](#core-game-rules) | [Game Specific Rules](#game-specific-rules) | [Getting Started](#getting-started) | | [Hall of Fame](#hall-of-fame) | [Credits](#credits) 
 
 # Core Game Rules
 ### [Foundational Rules](#foundational-rules) | [Catching Rules](#catching-rules) | [Pokemon Team Rules](#pokemon-team-rules)  <br> [Gameplay Rules](#gameplay-rules) | [Banned Moves](#banned-moves) | [Rare Candy Limits](#rare-candy-level-limits) 
@@ -116,10 +116,19 @@ FRLG Linkmon has not been beaten yet! If you and your partner manage to be the f
 2. Apply LinkMon patch for this gamemode to a clean FRLG ROM [here](https://www.marcrobledo.com/RomPatcher.js/)
 3. When setting up the profile in the tracker use: patched rom, Linkmon rnqs, and something-smart's randomizer (linked below)
 
+# Hall of Fame
+## Fire Red / Leaf Green First Win
+[Ceedsy](https://www.twitch.tv/ceedsy) and [BennyTots](https://www.twitch.tv/bennytots) on 7/19/25<br>
+<img width="401" height="224" alt="Ceedsy_LinkmonWin" src="https://github.com/user-attachments/assets/983a7ed9-6a11-45a2-8ec4-e4168bc77ff3" />
+<img width="401" height="224" alt="Benny_LinkmonWin" src="https://github.com/user-attachments/assets/d8ed2428-5e36-4ef3-94e4-45acea511f1c" />
+
+
+
 # Credits
+* [BigMurph619](https://www.twitch.tv/bigmurph619) Patch for FRLG Natdex Linkmon, 90% of patch for FRLG Linkmon, & Key Changes in the Murphverse
 * [DrMaple](https://github.com/DrMaple) For creating a variant of his FRLG Kaizo patch for this mode
+* [Reilnur](https://www.twitch.tv/reilnur) Patch for HGSS Linkmon
 * [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
-* [BigMurph619](https://www.twitch.tv/bigmurph619) Key Changes in the Murphverse & patch work
 * [UTDZac](https://github.com/UTDZac) Creator of FRLG Tracker
 * [something-smart](https://github.com/something-smart/ironmon-randomizer) Modified Pokemon Randomizer
 
