@@ -4,7 +4,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 
 FRLG Linkmon has not been beaten yet! If you and your partner manage to be the first ones to beat it on stream please send me the vod link and I will add you as NPCs to Pallet Town with whatever (appropriate) text you want!
 
-### [Core Game Rules](#core-game-rules) | [Game Specific Rules](#game-specific-rules) | [Getting Started](#getting-started) | | [Hall of Fame](#hall-of-fame) | [Credits](#credits) 
+### [Core Game Rules](#core-game-rules) | [Game Specific Rules](#game-specific-rules) | [Getting Started](#getting-started) | [Hall of Fame](#hall-of-fame) | [Credits](#credits) 
 
 # Core Game Rules
 ### [Foundational Rules](#foundational-rules) | [Catching Rules](#catching-rules) | [Pokemon Team Rules](#pokemon-team-rules)  <br> [Gameplay Rules](#gameplay-rules) | [Banned Moves](#banned-moves) | [Rare Candy Limits](#rare-candy-level-limits) 
