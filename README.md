@@ -124,6 +124,11 @@ FRLG Linkmon has not been beaten yet! If you and your partner manage to be the f
 
 
 
+## Natdex Fire Red / Leaf Green First Win
+[Ceedsy](https://www.twitch.tv/ceedsy) and [BennyTots](https://www.twitch.tv/bennytots) on 8/2/25<br>
+<img width="401" height="265" alt="Screenshot 2025-08-02 at 11 33 17 AM" src="https://github.com/user-attachments/assets/96f9f973-31c6-4269-9888-65b2175ad8ce" />
+<img width="401" height="265" alt="Screenshot 2025-08-02 at 11 31 46 AM" src="https://github.com/user-attachments/assets/f728063a-a295-404a-a554-565a12bf1be6" />
+
 # Credits
 * [BigMurph619](https://www.twitch.tv/bigmurph619) Patch for FRLG Natdex Linkmon, 90% of patch for FRLG Linkmon, & Key Changes in the Murphverse
 * [DrMaple](https://github.com/DrMaple) For creating a variant of his FRLG Kaizo patch for this mode
