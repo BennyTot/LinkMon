@@ -116,6 +116,18 @@ FRLG Linkmon has not been beaten yet! If you and your partner manage to be the f
 2. Apply LinkMon patch for this gamemode to a clean FRLG ROM [here](https://www.marcrobledo.com/RomPatcher.js/)
 3. When setting up the profile in the tracker use: patched rom, Linkmon rnqs, and something-smart's randomizer (linked below)
 
+## Natdex Fire Red / Leaf Green
+1. Download both the Natdex_Linkmon.rnqs (settings string) and the NATDEX_Linkmon_Patch.bps patch
+2. Apply LinkMon patch for this gamemode to a clean FRLG ROM [here](https://www.marcrobledo.com/RomPatcher.js/)
+3. Download the Natdex extension [here](https://github.com/CyanSMP64/NatDexExtension/releases/tag/v1.1.2). *Note - this is a different version than the latest Natdex version; if you also play Natdex kaizo you will need to rename both the lua and natdex folder under your Ironmon tracker extensions based on whether you are playing Natdex Linkmon or Natdex Kaizo.
+4. You will also need to use the randomizer found within the Natdex 1.1.2 folder
+5. Profile settings: patched rom, Natdex Linkmon rnqs, Natdex 1.1.2 randomizer
+
+## Heart Gold / Soul Silver
+1. Download both the HGSS_Linkmon.rnqs (settings string) and the HeartGold LinkMon NoLimiter.xdelta patch
+2. Apply LinkMon patch for this gamemode to a clean FRLG ROM [here](https://www.marcrobledo.com/RomPatcher.js/)
+3. When setting up the profile in the tracker use: patched rom, Linkmon rnqs, and something-smart's randomizer (linked below)
+
 # Hall of Fame
 ## Fire Red / Leaf Green First Win
 [Ceedsy](https://www.twitch.tv/ceedsy) and [BennyTots](https://www.twitch.tv/bennytots) on 7/19/25<br>
@@ -130,10 +142,11 @@ FRLG Linkmon has not been beaten yet! If you and your partner manage to be the f
 <img width="401" height="265" alt="Screenshot 2025-08-02 at 11 31 46 AM" src="https://github.com/user-attachments/assets/f728063a-a295-404a-a554-565a12bf1be6" />
 
 # Credits
-* [BigMurph619](https://www.twitch.tv/bigmurph619) Patch for FRLG Natdex Linkmon, 90% of patch for FRLG Linkmon, & Key Changes in the Murphverse
+* [BigMurph619](https://www.twitch.tv/bigmurph619) Patch for FRLG Natdex Linkmon & 90% of patch for FRLG Linkmon
 * [DrMaple](https://github.com/DrMaple) For creating a variant of his FRLG Kaizo patch for this mode
 * [Reilnur](https://www.twitch.tv/reilnur) Patch for HGSS Linkmon
-* [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
+* [CyanSMP64](https://github.com/CyanSMP64) Creator of Gen 3 Natdex Extension
 * [UTDZac](https://github.com/UTDZac) Creator of FRLG Tracker
+* [OnlySpaghettiCode](https://github.com/Brian0255) Creator of HGSS Tracker
 * [something-smart](https://github.com/something-smart/ironmon-randomizer) Modified Pokemon Randomizer
-
+* [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
