@@ -77,6 +77,22 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | 7 | Level 71 |
 | 8 | Level 80 |
 
+### Emerald
+| Gym Badges | Level Limit |
+| --- | --- |
+| 0 (in lab) | Level 6 |
+| 0 (out of lab) | Level 8 |
+| 0 (beat Forest Aqua Grunt) | Level 15 |
+| 1 | Level 24 |
+| 2 | Level 30 |
+| 3 | Level 38 |
+| 4 | Level 46 |
+| 5 | Level 50 |
+| 6 | Level 53 |
+| 7 | Level 67 |
+| 8 | Level 74 |
+| After Pokemon League | 93 |
+
 ### HGSS
 | Gym Badges | Level Limit |
 | --- | --- |
