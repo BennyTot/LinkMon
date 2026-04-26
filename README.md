@@ -91,7 +91,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | 6 | Level 53 |
 | 7 | Level 67 |
 | 8 | Level 74 |
-| After Pokemon League | 93 |
+| After Pokemon League | Level 93 |
 
 ### HGSS
 | Gym Badges | Level Limit |
