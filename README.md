@@ -10,7 +10,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 ## Foundational Rules
 | Rules | Details |
 | --- | --- |
-| Randomize the game | All Pokémon, movesets, move tutors, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by <b>50%</b>. |
+| Randomize the game | All Pokémon, movesets, move tutors, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by <b>50%</b> (<b>60%</b) for Emerald). |
 | Medium Slow Growth Rates | All Pokémon have Medium Slow Growth Rate. |
 | No Shops | You can only use items that you pick up or are given by an NPC, no use of stores except for any type of Pokeball or Repel. |
 | No Redos | You may not re-fight trainers at any point using the VS Seeker or other means. You may not abuse respawning items by picking them up more than once |
@@ -22,8 +22,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | Rules | Details |
 | --- | --- |
 | Pick your Starter | You may pick any mon you want in the lab. Your choice must still follow all other restrictions (i.e. no duplicate mons/typing & BST limit) |
-| Build your Foundation | For pre-Brock (FRLG) or pre-Sprout Tower (HGSS) encounters ONLY you may choose which Pokémon to catch on each route. The catches must still follow all other restrictions (i.e. no duplicate mons/typing & BST limit). If you KO the mon or it faints while attempting to catch you still lose your encounter on that route. |
-| Get Oak's Balls | The catching rule does not start until you get the 5 Pokeballs from Oak in the beginning of the game. If you get a ball on your starter your catches still do not start until you get the 5 Pokeballs. |
+| Build your Foundation | For pre-Brock (FRLG), pre-Roxanne (Emerald), or pre-Sprout Tower (HGSS) encounters ONLY you may choose which Pokémon to catch on each route. The catches must still follow all other restrictions (i.e. no duplicate mons/typing & BST limit). If you KO the mon or it faints while attempting to catch you still lose your encounter on that route. |
 | Catch 1 per Route | You may catch the first Pokemon per Route. If the first Pokemon is the same type as your partner's Pokemon on that route you may re-encounter. |
 | Link your Catches | You and your partner's catches on each route are linked. The linked pokemon cannot be the same type. |
 | No Uber Strong Mons | You are NOT allowed to catch a mon that has 600+ BST (Legendaries under 600 BST are ALLOWED). If you evo into a mon with 600+ BST you are allowed to run it. |
@@ -39,7 +38,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | --- | --- |
 | Team Composition | Linked Pokemon must be on the team at the same time. Both you and your partner's team must not repeat any Primary typing (this restriction is based on the Pokemon when caught; if it evos into a pair that repeats Primary typing it's allowed to be used). Pokemon pairs caught in dungeons (e.g. Mt. Moon) are legal to be used until you exit the dungeon regardless of team composition. |
 | Variety is the Spice of Life | Each Pokemon may only be brought to a total of 3 gyms (Elite Four is exempt from this rule). It's recommended to keep track using the 'Marks' feature available from the PC. | 
-| Keep the Team Leveled | You may use rare candies on each mon up to a specified level based on game progression. Additional rare candies are given in stacks of 99 by a NPC in Viridian City (FRLG) or by the Quagsire in lab (HGSS). The caps are listed below. |
+| Keep the Team Leveled | You may use rare candies on each mon up to a specified level based on game progression. Additional rare candies are given in stacks of 99 by a NPC in Viridian City (FRLG), a NPC in Littleroot Town (Emerald), or by the Quagsire in lab (HGSS). The caps are listed below. |
 | Let your Friends Grow | You cannot stop an evolution that occurs from level up. This rule can be ignored by equipping an Everstone to the pokemon. |
 | Ooo a Candy | If you find a rare candy as a random field item (i.e. not from the NPC who gives rare candies) then you may use it to go over the standard rare candy level limit. |
 | Held Items Restriction | The only Held Items allowed are Smokeball, Everstone, and items that are consumed on use like berries, herbs, and Focus Sash |
@@ -47,7 +46,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 ## Gameplay Rules
 | Rules | Details |
 | --- | --- |
-| Get out of Lab! | You are allowed to use illegal moves and any held items in the very first fight against your rival in Oak's Lab. |
+| Get out of Lab! | You are allowed to use illegal moves and any held items in the very first fight against your rival. |
 | Permadeath | Once a Pokémon faints, you must release/store it along with the linked Pokemon. Your partner may finish the current battle ONLY as if that Pokemon is still alive. | 
 | Game Over | Once all party Pokémon have fainted, the run is over, and you must restart with a newly randomized game. If you and your partner have a different last pokemon remaining (e.g. after a Gym Leader) the run is still over as there are no linked mons alive. |
 | No Way Out Gyms | Once You Enter a Gym or Dojo, You cannot leave until you defeat ALL TRAINERS. Beat it or Die. |
