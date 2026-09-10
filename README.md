@@ -23,7 +23,7 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 | --- | --- |
 | Pick your Starter | You may pick any mon you want in the lab. Your choice must still follow all other restrictions (i.e. no duplicate mons/typing & BST limit) |
 | Build your Foundation | For pre-Brock (FRLG), pre-Roxanne (Emerald), or pre-Sprout Tower (HGSS) encounters ONLY you may choose which Pokémon to catch on each route. The catches must still follow all other restrictions (i.e. no duplicate mons/typing & BST limit). If you KO the mon or it faints while attempting to catch you still lose your encounter on that route. |
-| Catch 1 per Route | You may catch the first Pokemon per Route. If the first Pokemon is the same type as your partner's Pokemon on that route you may re-encounter. |
+| Catch 1 per Route | You may catch the first Pokemon per Route. If the first Pokemon is the same type as your partner's Pokemon on that route you may re-encounter. You may use a gift Pokemon for your catch if there are no wild options (e.g. the Eevee from Bill in Goldenrod for HGSS or the Egg from woman in Lavaridge).|
 | Link your Catches | You and your partner's catches on each route are linked. The linked pokemon cannot be the same type. |
 | No Uber Strong Mons | You are NOT allowed to catch a mon that has 600+ BST (Legendaries under 600 BST are ALLOWED). If you evo into a mon with 600+ BST you are allowed to run it. |
 | Dupes Clause | You are NOT allowed to catch a pokemon that has already been caught by you or that you have already evolved into. If you encounter one you are allowed to re-encounter. If you evo into a dupe you are allowed to run it. |
@@ -119,9 +119,12 @@ Created by [BennyTots](https://www.twitch.tv/bennytots)
 * The SS Anne Dungeon begins as soon as you flash your SS Anne ticket and just like Kaizo Ironmon the Rival fight must be the first fight you do.
 * You ARE allowed to save state in the beginning of your Safari Zone encounter to guarantee the catch (just load state if the pokemon runs)
 * You ARE allowed to enter Sevii Islands.
+## Emerald
+* You are given a Smoke ball in the lab and Nest balls outside of the lab; these are legal to use. You cannot catch any wilds until after beating the first Rival fight.
+* In order to beat the game you have to beat Steven
 ## Heart Gold / Soul Silver
 * You are allowed to grab 7 Master balls from the Quagsire in the lab, you cannot use these until after beating Rival and telling the Police Officer their name.
-* In order to beat the game, you have to beat both Red and the E4 Rematch after getting all 8 Kanto badges.
+* In order to beat the game you have to beat both Red and the E4 Rematch after getting all 8 Kanto badges.
 
 # Getting Started
 ## Fire Red / Leaf Green
